@@ -6,5 +6,5 @@ Introduction:
              Activity-4 is about the display in different forms like LED's etc.
              
              
-             ![](https://user-images.githubusercontent.com/89855526/133609392-5728187a-6c07-4909-abc2-ec19af90ea71.png)
+    
 
